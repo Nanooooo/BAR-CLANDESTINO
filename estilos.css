@@ -1,0 +1,27 @@
+* {
+margin: 0;
+padding: 0;
+box-sizing: border-box
+}
+
+header {
+
+            background-color: #000;
+            height: 80px;
+}
+
+nav{
+    margin-top: 20px;
+    margin-right: 40px;
+    float: right;
+}
+
+li{
+    display: table-cell;
+    padding: 12px; 
+}
+a{
+    color: aliceblue;
+    text-decoration: none;
+
+}
